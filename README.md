@@ -3,4 +3,4 @@
 
 Google Maps autocomplete, but with Openstreetmap.
 
-This address autocomplete feature is using Komoot's Photon API.
+Powered by Komoot's Photon API.
